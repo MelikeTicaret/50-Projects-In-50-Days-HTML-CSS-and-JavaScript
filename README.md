@@ -13,3 +13,10 @@
 - Bu repo yeni başlayan ya da kendini geliştirmek isteyen gelişticiler içindir.
 - HTML, CSS, DOM (Belge Nesne Modeli) ve JavaScript ile ilgili 50 mini proje içerir.
   
+# Projeler:
+
+| Sıra  | Kaynak Kod  | Youtube Bağlantı  |
+| --|:-------:| -----:|
+| `01` |[Hava Durumu](https://github.com/MelikeTicaret/50-Projects-In-50-Days-HTML-CSS-and-JavaScript/tree/main/01-Hava%20Durumu)|[API Kullanarak Hava Durumu Uygulaması Geliştirelim HTML & CSS & JavaScript](https://www.youtube.com/watch?v=r0d4c0_PDsE)    |
+| `02` |   |     |
+| `03` |      |   |
