@@ -16,7 +16,7 @@
 # Projeler:
 
 | Sıra  | Kaynak Kod  | Youtube Bağlantı  |
-| --|:-------:| -----:|
-| `01` |[Hava Durumu](https://github.com/MelikeTicaret/50-Projects-In-50-Days-HTML-CSS-and-JavaScript/tree/main/01-Hava%20Durumu)|[API Kullanarak Hava Durumu Uygulaması Geliştirelim HTML & CSS & JavaScript](https://www.youtube.com/watch?v=r0d4c0_PDsE)    |
-| `02` |   |     |
-| `03` |      |   |
+| ------|:-----------:| -----------------:|
+| `01`  |  [Hava Durumu](https://github.com/MelikeTicaret/50-Projects-In-50-Days-HTML-CSS-and-JavaScript/tree/main/01-Hava%20Durumu)  |  [API Kullanarak Hava Durumu Uygulaması Geliştirelim HTML & CSS & JavaScript](https://www.youtube.com/watch?v=r0d4c0_PDsE)  |
+| `02`  |  [Mobil Görünümdeki Yan Menü](https://github.com/MelikeTicaret/50-Projects-In-50-Days-HTML-CSS-and-JavaScript/tree/main/02-Mobil%20G%C3%B6r%C3%BCn%C3%BCmdeki%20Yan%20Men%C3%BC)  |  [Mobil Görünümdeki Yan Menü Nasıl yapılır](https://www.youtube.com/watch?v=vOcVhcUZ0qw&list=PLed-3Li4K4Zfs_ASjAfaWquYCMkPeFmKy&index=11)  |
+| `03`  |      |   |
